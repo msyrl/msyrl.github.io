@@ -1,7 +1,11 @@
+import Hero from "./components/Hero";
+import ToolItems from "./components/ToolItems";
+
 function App() {
   return (
     <div>
-      <h1>Hello World!</h1>
+      <Hero />
+      <ToolItems />
     </div>
   );
 }

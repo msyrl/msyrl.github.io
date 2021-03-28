@@ -1,0 +1,42 @@
+[
+    {
+        "icon": "https://laravel.com/img/logomark.min.svg",
+        "label": "Laravel"
+    },
+    {
+        "icon": "https://laravel-livewire.com/img/twitter.png",
+        "label": "Livewire"
+    },
+    {
+        "icon": "https://avatars.githubusercontent.com/u/59030169?s=280&v=4",
+        "label": "Alpine"
+    },
+    {
+        "icon": "https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg",
+        "label": "Tailwind"
+    },
+    {
+        "icon": "https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg",
+        "label": "jQuery"
+    },
+    {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
+        "label": "Bootstrap"
+    },
+    {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
+        "label": "React"
+    },
+    {
+        "icon": "https://pbs.twimg.com/profile_images/1145729423628357632/juwtUgGy.png",
+        "label": "MariaDB"
+    },
+    {
+        "icon": "https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png",
+        "label": "MySQL"
+    },
+    {
+        "icon": "https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/postgresql.png",
+        "label": "PostgreSQL"
+    }
+]
